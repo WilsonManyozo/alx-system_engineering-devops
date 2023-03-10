@@ -1,2 +1,2 @@
 #!/bin/bash
-chown chgrp hello
+chown u+x,g+x,o+r hello
