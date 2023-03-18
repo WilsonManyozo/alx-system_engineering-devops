@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -lnee 'print if $. % 2 --l'
