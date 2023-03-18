@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lnee 'print if $. % 2 --l'
+perl -lne 'print if $. % 2 ==l'
